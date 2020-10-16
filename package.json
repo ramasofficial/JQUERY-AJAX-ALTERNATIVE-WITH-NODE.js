@@ -1,0 +1,17 @@
+{
+  "name": "JQUERY-AJAX-ALTERNATIVE-WITH-NODE.js",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jquery": "^3.5.1",
+    "mysql": "^2.18.1",
+    "prompt": "^1.0.0",
+    "socket.io": "^1.7.4",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
